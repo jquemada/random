@@ -1,0 +1,1 @@
+Este proyecto genera al azar un número de entre 0 y 1 y lo compara con 0,5 diciendo si es mayor o menor a 0,5.
